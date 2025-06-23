@@ -84,4 +84,4 @@ This S3-step (and how it’s implemented) in the notebook:
 
 **Parampreet Singh Ahluwalia**  
 Elevate Labs Internship – Data Task  
-[LinkedIn Profile](https://www.linkedin.com/in/parampreetsinghahluwalia)  
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/))  
