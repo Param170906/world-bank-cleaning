@@ -4,7 +4,58 @@
 
 Cleaned and preprocessed World Bank data using Python and Pandas.
 
+---# 🌍 World Bank Dataset Cleaning Project
+
+This repository contains the cleaned version of a World Bank dataset along with the Jupyter Notebook used to process and clean the data. This project was completed as part of the **Elevate Labs Internship Task 1** by **Parampreet Singh Ahluwalia**.
+
 ---
+
+## 📂 Files Included
+
+| File Name | Description |
+|-----------|-------------|
+| `cleaned_world_bank_data.csv` | Cleaned dataset file after preprocessing and handling missing values |
+| `world_Bank_cleaned.ipynb` | Jupyter Notebook with all cleaning steps performed on the raw dataset |
+| `README.md` | This file, providing an overview of the project |
+
+---
+
+## 🧠 Objective
+
+To clean the raw World Bank dataset by:
+
+- Identifying and handling missing values
+- Standardizing column names
+- Removing irrelevant or duplicated data
+- Ensuring consistency in data formats (e.g., years, country names, etc.)
+- Preparing the dataset for further data analysis or machine learning tasks
+
+---
+
+## 🛠️ Tools Used
+
+- Python 🐍
+- Pandas 🐼
+- Jupyter Notebook 📓
+
+---
+
+## 🔍 Data Cleaning Performed
+
+✅ Null Values Handled  
+✅ Removed irrelevant or non-informative columns  
+✅ Standardized column headers  
+✅ Converted data types where necessary  
+✅ Checked for duplicates  
+✅ Exported clean dataset to CSV
+
+---
+
+## 📷 Preview
+
+*You can include a screenshot of your Jupyter Notebook here:*
+
+
 
 ## 📁 Repository Contents
 
@@ -84,4 +135,4 @@ This S3-step (and how it’s implemented) in the notebook:
 
 **Parampreet Singh Ahluwalia**  
 Elevate Labs Internship – Data Task  
-[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/))  
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/)
