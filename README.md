@@ -17,7 +17,7 @@ This repository contains the cleaned version of a World Bank dataset along with 
 | `cleaned_world_bank_data.csv` | Cleaned dataset file after preprocessing and handling missing values |
 | `world_Bank_cleaned.ipynb` | Jupyter Notebook with all cleaning steps performed on the raw dataset |
 | `README.md` | This file, providing an overview of the project |
-| `python.py`-Python script containing the full cleaning logic.|
+| `python.py` | Python script containing the full cleaning logic.|
 
 ---
 
